@@ -1,2 +1,4 @@
 # Diabetes-ML-Prediction
-Predicts diabetes risk using ML techniques like Random Forest and SMOTE. Achieved 97% accuracy and improved positive-case recall through feature engineering and class balancing.
+This project explores the use of machine learning models to predict diabetes risk based on patient health data. It compares multiple approaches including full feature models, limited feature models (HbA1c and glucose), and SMOTE-enhanced models—to improve classification accuracy and recall for positive cases.
+
+After cloning the the repo, you can run the notebook in Jupyter Notebook
