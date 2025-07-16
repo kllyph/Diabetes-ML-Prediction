@@ -1,9 +1,11 @@
 # Diabetes Prediction using Machine Learning
 
-**California State University, Long Beach**  
-**Computer Engineering and Computer Science Department**   
+## **California State University, Long Beach** 
+
+## **Computer Engineering and Computer Science Department** 
+
 **Created by**:  
-### Kelly Pham & Khoa Vu 
+Kelly Pham & Khoa Vu 
 ---
 
 ## Abstract
