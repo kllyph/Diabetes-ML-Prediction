@@ -6,7 +6,6 @@
 
 **Created by**:  
 Kelly Pham
-
 Khoa Vu
 
 ---
