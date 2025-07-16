@@ -5,8 +5,7 @@
 ## **Computer Engineering and Computer Science Department** 
 
 **Created by**:  
-Kelly Pham
-Khoa Vu
+Kelly Pham & Khoa Vu
 
 ---
 
